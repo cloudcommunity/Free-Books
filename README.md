@@ -9,3 +9,9 @@ Free eBooks about cloud computing and related topics
 - [Graph Databases For Dummies, Neo4j Special Edition](https://go.neo4j.com/rs/710-RRC-335/images/Graph-Databases-For-Dummies.pdf) [PDF]
 - "Modern Web Development on the JAMstack" by O’Reilly Media [[PDF](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf), [EPUB](https://www.netlify.com/epub/oreilly-modern-web-development-on-the-jamstack.epub), [MOBI](https://www.netlify.com/mobi/oreilly-modern-web-development-on-the-jamstack.mobi)]
 - [NET-Microservices-Architecture-for-Containerized-NET-Applications](https://aka.ms/microservicesebook) [PDF]
+
+- [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) 
+- [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) 
+- [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) 
+- [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
+- [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) 
