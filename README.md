@@ -15,3 +15,4 @@ Free eBooks about cloud computing and related topics
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) 
 - [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 - [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) 
+- [Handbook of Cloud Computing](https://studytm.files.wordpress.com/2014/03/hand-book-of-cloud-computing.pdf) [PDF]
