@@ -16,3 +16,4 @@ Free eBooks about cloud computing and related topics
 - [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/)
 - [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/)
 - [Handbook of Cloud Computing](https://studytm.files.wordpress.com/2014/03/hand-book-of-cloud-computing.pdf) [PDF]
+- [Essentials of Cloud Computing](http://index-of.co.uk/Cloud-Computing-Books/Essentials%20of%20cloud%20computing%20(2015).pdf) [PDF]
