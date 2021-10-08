@@ -16,6 +16,7 @@ Free eBooks about cloud computing and related topics
 - [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/)
 - [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/)
 - [Handbook of Cloud Computing](https://studytm.files.wordpress.com/2014/03/hand-book-of-cloud-computing.pdf) [PDF]
+- [Essentials of Cloud Computing](http://index-of.co.uk/Cloud-Computing-Books/Essentials%20of%20cloud%20computing%20(2015).pdf) [PDF]
 - [Storage patterns for Kubernetes](https://www.redhat.com/cms/managed-files/st-storage-patterns-kubernetes-dummies-ebook-f20626-201911-en.pdf) [PDF]
 - [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
 - [Kubernetes Operators: Automating the Container Orchestration Platform](https://www.redhat.com/cms/managed-files/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf?extIdCarryOver=true&sc_cid=701f2000001Css5AAC)
