@@ -21,3 +21,4 @@ Free eBooks about cloud computing and related topics
 - [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
 - [Kubernetes Operators: Automating the Container Orchestration Platform](https://www.redhat.com/cms/managed-files/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf?extIdCarryOver=true&sc_cid=701f2000001Css5AAC)
 - [Cloud Services For Dummies®, IBM Limited Edition](https://www.ibm.com/cloud-computing/files/cloud-for-dummies.pdf) [PDF]
+- [The Definitive Guide To Cloud Computing](http://eddiejackson.net/web_documents/The_Definitive_Guide_to_Cloud_Computing.pdf) [PDF]
