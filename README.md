@@ -23,3 +23,4 @@ Free eBooks about cloud computing and related topics
 - [Cloud Services For Dummies®, IBM Limited Edition](https://www.ibm.com/cloud-computing/files/cloud-for-dummies.pdf) [PDF]
 - [The Definitive Guide To Cloud Computing](http://eddiejackson.net/web_documents/The_Definitive_Guide_to_Cloud_Computing.pdf) [PDF]
 - [The Manga Guide to Databases](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf) [PDF]
+- [Developer’s Guide to Getting Started with Azure Cosmos DB](https://azure.microsoft.com/en-us/resources/developer-s-guide-to-getting-started-with-azure-cosmos-db/) [PDF]
